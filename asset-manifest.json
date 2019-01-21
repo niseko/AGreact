@@ -1,14 +1,13 @@
 {
   "main.css": "/agreact/static/css/main.f4ffd2fd.chunk.css",
-  "main.js": "/agreact/static/js/main.42080653.chunk.js",
-  "main.js.map": "/agreact/static/js/main.42080653.chunk.js.map",
-  "static/js/1.6105a37c.chunk.js": "/agreact/static/js/1.6105a37c.chunk.js",
-  "static/js/1.6105a37c.chunk.js.map": "/agreact/static/js/1.6105a37c.chunk.js.map",
+  "main.js": "/agreact/static/js/main.751fe46d.chunk.js",
+  "main.js.map": "/agreact/static/js/main.751fe46d.chunk.js.map",
+  "static/js/1.314ec8d5.chunk.js": "/agreact/static/js/1.314ec8d5.chunk.js",
+  "static/js/1.314ec8d5.chunk.js.map": "/agreact/static/js/1.314ec8d5.chunk.js.map",
   "runtime~main.js": "/agreact/static/js/runtime~main.e6b9de84.js",
   "runtime~main.js.map": "/agreact/static/js/runtime~main.e6b9de84.js.map",
-  "static/media/logo.svg": "/agreact/static/media/logo.5d5d9eef.svg",
   "static/css/main.f4ffd2fd.chunk.css.map": "/agreact/static/css/main.f4ffd2fd.chunk.css.map",
   "index.html": "/agreact/index.html",
-  "precache-manifest.8c1a11e6b3cdfa1926c3108b782e0f5a.js": "/agreact/precache-manifest.8c1a11e6b3cdfa1926c3108b782e0f5a.js",
+  "precache-manifest.38458db5b9fc55efa331c093dccd4a85.js": "/agreact/precache-manifest.38458db5b9fc55efa331c093dccd4a85.js",
   "service-worker.js": "/agreact/service-worker.js"
 }
